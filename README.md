@@ -4,9 +4,13 @@
 
 This site is for creating a random password for the user. The user can select what criteria the password will have and will be given a randomized password based on the chosen criteria.
 
+## Screenshot
+
+![Click the red button to activate the generator".](./assets/password%20generator.PNG)
+
 ## Installation
 
-N/A
+Link: https://gcreach.github.io/password/
 
 ## Usage
 
@@ -25,5 +29,4 @@ If you followed tutorials, include links to those here as well.
 
 Please refer to the license in the repo.
 
----
 
